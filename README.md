@@ -2,7 +2,7 @@
 
 ### **BCA DS & CS Student || Aspiring Data Scientist || Exploring AI & Data Analytics || Building Real-World Projects**
 
-📧 **Email Me:** **akkarayat4@gmail.com**  
+📧 **Email Me:** **amankarayat9@gmail.com**  
 For Collaboration, Projects & Tech Discussions 🚀
 
 ---
@@ -93,10 +93,11 @@ For Collaboration, Projects & Tech Discussions 🚀
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/karayat.aman)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-karayat-123456)
+[![Email](https://img.shields.io/badge/Email-amankarayat9%40gmail.com-red?logo=gmail&logoColor=white)](mailto:amankarayat9@gmail.com)
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AmanKarayatVlog)
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akkarayat4@gmail.com)
+
+
 
 ---
 
